@@ -1,4 +1,3 @@
-# Task - 2
 ## 🖼️ Secure Image Encryption Tool
 
 A Python-based tool that encrypts and decrypts images using **XOR encryption** with a pseudo-random key derived from a user-defined numeric seed.
